@@ -1,5 +1,5 @@
 #include<iostream>
-#include"contacts.h"
+#include"contacts.hpp"
 #pragma once
 #define MAX 1000
 using namespace std;

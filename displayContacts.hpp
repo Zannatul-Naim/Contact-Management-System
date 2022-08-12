@@ -1,4 +1,4 @@
-#include"addressBooks.h"
+#include"addressBooks.hpp"
 #pragma once
 
 void displayContacts(AddressBooks *abooks) {
@@ -17,7 +17,8 @@ void displayContacts(AddressBooks *abooks) {
             cout << "          Age : " << abooks->contactsArray[i].age << endl;
             cout << "          Phone : " << abooks->contactsArray[i].phone << endl;
             cout << "          Addrsss : " << abooks->contactsArray[i].address << endl;
+            cout << endl << endl;
         }
-        cout << endl << endl;
+        
     }
 }

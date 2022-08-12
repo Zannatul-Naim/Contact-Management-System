@@ -1,12 +1,12 @@
 #include<iostream>
-#include"menu.h"
-#include"addContacts.h"
-#include"addressBooks.h"
-#include"displayContacts.h"
-#include"findContacts.h"
-#include"modifyContacts.h"
-#include"deleteContact.h"
-#include"clearContacts.h"
+#include"menu.hpp"
+#include"addContacts.hpp"
+#include"addressBooks.hpp"
+#include"displayContacts.hpp"
+#include"findContacts.hpp"
+#include"modifyContacts.hpp"
+#include"deleteContact.hpp"
+#include"clearContacts.hpp"
 
 using namespace std;
 

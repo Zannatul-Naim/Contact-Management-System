@@ -1,6 +1,6 @@
-#include"addContacts.h"
-#include"search.h"
-#include"contacts.h"
+#include"addContacts.hpp"
+#include"search.hpp"
+#include"contacts.hpp"
 
 #pragma once
 
